@@ -9,7 +9,7 @@
 
     -   Learning Elements:
 
-        -   CELA Video – Built by WF Creative Services
+        -   Video – Built by WF Creative Services
 
         -   Marketing video:
             <https://mediastream.microsoft.com/events/2018/1809/Ignite/Security.html>
@@ -81,6 +81,6 @@ across your entire digital estate.
 
 threat protection deck: 
 
-<https://microsoft.sharepoint.com/sites/Infopedia_G03KC/KCDOCs/Forms/AllItems.aspx?id=%2Fsites%2FInfopedia_G03KC%2FKCDOCs%2FMicrosoft%20Secure%20Resources%2FMicrosoft%20Secure%20-%20Threat%20Protection.pptx&parent=%2Fsites%2FInfopedia_G03KC%2FKCDOCs%2FMicrosoft%20Secure%20Resources&embed=%7B%22o%22%3A%22https%3A%2F%2Fmicrosoft.sharepoint.com%22%2C%22id%22%3A%22e9fc4bee-0cf3-4b90-90a6-a8f6fc3541eb%22%2C%22af%22%3Atrue%7D>
+<https://www.microsoft.com>
 
 ![](media/3abb462270eb90c21997ad668a2e7184.png)
